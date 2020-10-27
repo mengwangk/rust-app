@@ -27,4 +27,9 @@ mod tests {
 
         assert!(larger.can_hold(&smaller));
     }
+
+    #[test]
+    fn another_lib() {
+        another_lib::who_am_i();
+    }
 }
