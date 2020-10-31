@@ -3,4 +3,5 @@
 members = [
     "myapp1",
     "mylib1",
+    "mylib2",
 ]
