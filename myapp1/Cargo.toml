@@ -10,4 +10,5 @@ edition = "2018"
 
 mylib1 = { path = "../mylib1" }
 mylib2 = { path = "../mylib2" }
+mylib3 = { path = "../mylib3" }
 
