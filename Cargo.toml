@@ -5,4 +5,5 @@ members = [
     "mylib1",
     "mylib2",
     "mylib3",
+    "wasm-game-of-life",
 ]
