@@ -1,4 +1,5 @@
 use mylib1;
+use mylib2;
 
 fn main() {
     let num = 888;
@@ -12,4 +13,6 @@ fn main() {
         num,
         mylib1::add_two(num)
     );
+
+    mylib2::eat_at_restaurant();
 }

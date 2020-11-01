@@ -9,4 +9,5 @@ edition = "2018"
 [dependencies]
 
 mylib1 = { path = "../mylib1" }
+mylib2 = { path = "../mylib2" }
 
