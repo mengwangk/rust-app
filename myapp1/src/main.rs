@@ -1,6 +1,8 @@
 use mylib1;
 use mylib2;
 
+mod submodule;
+
 fn main() {
     let num = 888;
     println!(
@@ -15,4 +17,7 @@ fn main() {
     );
 
     mylib2::eat_at_restaurant();
+    submodule::print();
+    default_lib();
+    default_lib2();
 }
