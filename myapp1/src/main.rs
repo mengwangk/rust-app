@@ -18,6 +18,6 @@ fn main() {
 
     mylib2::eat_at_restaurant();
     submodule::print();
-    default_lib();
-    default_lib2();
+    myapp1::default_lib();
+    myapp1::default_lib2();
 }
